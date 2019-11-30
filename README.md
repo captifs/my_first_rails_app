@@ -1,1 +1,1 @@
-Learned to deploy my first app in ruby.
+Learned to deploy my first app on rails.
